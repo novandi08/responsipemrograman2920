@@ -1,0 +1,14 @@
+C:\Fahren\Repos\ResponsiPemrograman2920\ResponsiPemrograman2920\obj\Debug\ResponsiPemrograman2920.csprojAssemblyReference.cache
+C:\Fahren\Repos\ResponsiPemrograman2920\ResponsiPemrograman2920\obj\Debug\ResponsiPemrograman2920.csproj.CoreCompileInputs.cache
+C:\Fahren\Repos\ResponsiPemrograman2920\ResponsiPemrograman2920\bin\Debug\ResponsiPemrograman2920.exe.config
+C:\Fahren\Repos\ResponsiPemrograman2920\ResponsiPemrograman2920\bin\Debug\ResponsiPemrograman2920.exe
+C:\Fahren\Repos\ResponsiPemrograman2920\ResponsiPemrograman2920\bin\Debug\ResponsiPemrograman2920.pdb
+C:\Fahren\Repos\ResponsiPemrograman2920\ResponsiPemrograman2920\obj\Debug\ResponsiPemrograman2920.exe
+C:\Fahren\Repos\ResponsiPemrograman2920\ResponsiPemrograman2920\obj\Debug\ResponsiPemrograman2920.pdb
+C:\Fahren\ResponsiPemrograman2920\ResponsiPemrograman2920\bin\Debug\ResponsiPemrograman2920.exe.config
+C:\Fahren\ResponsiPemrograman2920\ResponsiPemrograman2920\bin\Debug\ResponsiPemrograman2920.exe
+C:\Fahren\ResponsiPemrograman2920\ResponsiPemrograman2920\bin\Debug\ResponsiPemrograman2920.pdb
+C:\Fahren\ResponsiPemrograman2920\ResponsiPemrograman2920\obj\Debug\ResponsiPemrograman2920.csprojAssemblyReference.cache
+C:\Fahren\ResponsiPemrograman2920\ResponsiPemrograman2920\obj\Debug\ResponsiPemrograman2920.csproj.CoreCompileInputs.cache
+C:\Fahren\ResponsiPemrograman2920\ResponsiPemrograman2920\obj\Debug\ResponsiPemrograman2920.exe
+C:\Fahren\ResponsiPemrograman2920\ResponsiPemrograman2920\obj\Debug\ResponsiPemrograman2920.pdb
